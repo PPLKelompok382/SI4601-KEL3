@@ -3,4 +3,25 @@ Muhammad Fahad Tsanaurrahman - 1202223176
 Shalvia Retno Salsabil - 1202220027
 Wildan Baihaqi Hakim - 1202223346
 Muhammad Fadli Mannguluang - 1202223209
+<<<<<<< HEAD
 Gilang Dwi Dermawan - 1202223052
+
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+<<<<<<< HEAD
+bismillah ppl auto A 
+=======
+Update teruss -shalvia
+>>>>>>> origin/Shalvia_Branch
+=======
+Diubah willy cuy
+>>>>>>> origin/Wildan_Branch
+=======
+Gilang Dwi Dermawan - 1202223052 
+
+perbaharui bang atay - fahad
+>>>>>>> origin/Fahad_Branch
+=======
+Diubah Oleh Fadli Ganteng
+>>>>>>> origin/Fadli_Branch
