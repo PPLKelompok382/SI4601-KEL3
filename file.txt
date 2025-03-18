@@ -7,6 +7,7 @@ Muhammad Fadli Mannguluang - 1202223209
 Gilang Dwi Dermawan - 1202223052
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 bismillah ppl auto A 
@@ -21,3 +22,6 @@ Gilang Dwi Dermawan - 1202223052
 
 perbaharui bang atay - fahad
 >>>>>>> origin/Fahad_Branch
+=======
+Diubah Oleh Fadli Ganteng
+>>>>>>> origin/Fadli_Branch
