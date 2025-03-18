@@ -6,4 +6,8 @@ Muhammad Fadli Mannguluang - 1202223209
 Gilang Dwi Dermawan - 1202223052
 
 
+<<<<<<< HEAD
 bismillah ppl auto A 
+=======
+Update teruss -shalvia
+>>>>>>> origin/Shalvia_Branch
