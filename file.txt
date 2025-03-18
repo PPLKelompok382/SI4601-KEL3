@@ -5,9 +5,13 @@ Wildan Baihaqi Hakim - 1202223346
 Muhammad Fadli Mannguluang - 1202223209
 Gilang Dwi Dermawan - 1202223052
 
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 bismillah ppl auto A 
 =======
 Update teruss -shalvia
 >>>>>>> origin/Shalvia_Branch
+=======
+Diubah willy cuy
+>>>>>>> origin/Wildan_Branch
